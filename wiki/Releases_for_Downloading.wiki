@@ -1,0 +1,20 @@
+#labels Featured,Phase-Deploy
+==*Release Format*==
+
+Full binary contains all files you need to run this program.
+
+Slim binary contains mostly main executable. Useful if there is a daily build with minor changes.
+
+All in archives. Currently no plan for installer.
+----
+If there is a large revision (like when you find some new files in archive), please delete old files and dependencies before using latest builds.
+
+==*Build Categories*==
+
+EXPERIMENTAL builds are daily builds, some several times a day. Not recommended unless you want to contribute to this project.
+
+Alpha builds come out less frequently, but still have unstable/new features, or bad codes.
+
+Beta builds are intended for public testing, including that of stability and compatibility, the development of new features will be postponed. Usually, one of these builds will be chosen as release candidate.
+----
+A final build will be good to go when all planned features have been covered.

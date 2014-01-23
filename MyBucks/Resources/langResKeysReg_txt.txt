@@ -1,0 +1,86 @@
+0	(str)[default]
+1	(str)Abort
+2	(str)About
+3	(str)buttonExtractCurr
+4	(str)buttonExtractTmp
+5	(str)bytes
+6	(str)bytes_approximately
+7	(str)Cannot paste.
+8	(str)Clear Temporary Files
+9	(str)Computer
+10	(str)Created: 
+11	(str)dbl_click_enable_edit
+12	(str)Desktop
+13	(str)Directory not found
+14	(str)Display
+15	(str)Documents
+16	(str)Extracting
+17	(str)Font
+18	(str)font_not_supported
+19	(str)Illegal filename!
+20	(str)Items
+21	(str)Language
+22	(str)last_modified
+23	(str)Music
+24	(str)MyBucks
+25	(str)MyBucks Archive Viewer
+26	(str)Open Temporary Folder
+27	(str)Operation aborted
+28	(str)Operation complete
+29	(str)Operation failed
+30	(str)Overwrite ALL existing files?
+31	(str)Path
+32	(str)Personal
+33	(str)Pictures
+34	(str)Settings
+35	(str)show_file_ext
+36	(str)show_full_path_titlebar
+37	aboutToolStripMenuItem
+38	archiveToolStripMenuItem
+39	audioToolStripMenuItem
+40	autoRefreshToolStripMenuItem
+41	buttonCollapseView
+42	buttonCopy
+43	buttonDelete
+44	buttonExtract
+45	buttonMove
+46	buttonPack
+47	buttonPreview
+48	buttonUp
+49	buttonView
+50	buttonViewOut
+51	clearSelectionToolStripMenuItem
+52	copyToClipboardToolStripMenuItem
+53	copyToolStripMenuItem
+54	cutToClipboardToolStripMenuItem
+55	cutToolStripMenuItem
+56	deleteToolStripMenuItem
+57	detailsToolStripMenuItem
+58	documentToolStripMenuItem
+59	dropdownButtonFilter
+60	executableToolStripMenuItem
+61	exitToolStripMenuItem
+62	favCaption
+63	fileToolStripMenuItem
+64	findIcon
+65	helpToolStripMenuItem
+66	imageToolStripMenuItem
+67	invertSelectionToolStripMenuItem
+68	largeIconsToolStripMenuItem
+69	launchNewToolStripMenuItem
+70	listToolStripMenuItem
+71	navCaption
+72	openArchiveToolStripMenuItem
+73	pasteToolStripMenuItem
+74	refreshToolStripMenuItem
+75	renameToolStripMenuItem
+76	selectAllToolStripMenuItem
+77	settingsToolStripMenuItem
+78	settingsToolStripMenuItem
+79	smallIconsToolStripMenuItem
+80	switchThemeToolStripMenuItem
+81	tileToolStripMenuItem
+82	toolsToolStripMenuItem
+83	videoToolStripMenuItem
+84	viewModeToolStripMenuItem
+85	viewOutToolStripMenuItem

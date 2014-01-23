@@ -1,0 +1,3 @@
+D:\C_STORE\SkyDrive\Documents\Visual Studio 2013\Projects\mdsp-mybucks\MyBucks\bin\Debug\MyBucks.exe.config
+D:\C_STORE\SkyDrive\Documents\Visual Studio 2013\Projects\mdsp-mybucks\MyBucks\obj\x86\Debug\Interop.Shell32.dll
+D:\C_STORE\SkyDrive\Documents\Visual Studio 2013\Projects\mdsp-mybucks\MyBucks\obj\x86\Debug\MyBucks.csproj.ResolveComReference.cache

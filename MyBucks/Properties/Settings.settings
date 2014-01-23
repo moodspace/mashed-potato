@@ -1,0 +1,178 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyBucks.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="listViewBackColor_dark" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">35, 35, 38</Value>
+    </Setting>
+    <Setting Name="listViewBackColor_light" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">250, 251, 253</Value>
+    </Setting>
+    <Setting Name="sidebarBackColor_light" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">242, 243, 245</Value>
+    </Setting>
+    <Setting Name="sidebarBackColor_dark" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">64, 64, 64</Value>
+    </Setting>
+    <Setting Name="useLightTheme" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="foreColor_dark" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">WhiteSmoke</Value>
+    </Setting>
+    <Setting Name="foreColor_light" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="statusBackColor_dark" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">DimGray</Value>
+    </Setting>
+    <Setting Name="statusBackColor_light" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">LightCyan</Value>
+    </Setting>
+    <Setting Name="languageIndexSettings" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="customFontFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[default]</Value>
+    </Setting>
+    <Setting Name="useLongPathInTitlebar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="useFileExtInExp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="previewPicFormats" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;jpg&lt;/string&gt;
+  &lt;string&gt;jpeg&lt;/string&gt;
+  &lt;string&gt;bmp&lt;/string&gt;
+  &lt;string&gt;png&lt;/string&gt;
+  &lt;string&gt;gif&lt;/string&gt;
+  &lt;string&gt;tiff&lt;/string&gt;
+  &lt;string&gt;ico&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="predefinedVideoFormats" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;3gp&lt;/string&gt;
+  &lt;string&gt;wmv&lt;/string&gt;
+  &lt;string&gt;wm&lt;/string&gt;
+  &lt;string&gt;avi&lt;/string&gt;
+  &lt;string&gt;flv&lt;/string&gt;
+  &lt;string&gt;mp4&lt;/string&gt;
+  &lt;string&gt;mpeg&lt;/string&gt;
+  &lt;string&gt;mpg&lt;/string&gt;
+  &lt;string&gt;rm&lt;/string&gt;
+  &lt;string&gt;rmvb&lt;/string&gt;
+  &lt;string&gt;mkv&lt;/string&gt;
+  &lt;string&gt;ts&lt;/string&gt;
+  &lt;string&gt;mov&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="previewWebFormats" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;htm&lt;/string&gt;
+  &lt;string&gt;html&lt;/string&gt;
+  &lt;string&gt;xml&lt;/string&gt;
+  &lt;string&gt;xhtml&lt;/string&gt;
+  &lt;string&gt;shtml&lt;/string&gt;
+  &lt;string&gt;mht&lt;/string&gt;
+  &lt;string&gt;asp&lt;/string&gt;
+  &lt;string&gt;php&lt;/string&gt;
+  &lt;string&gt;swf&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="predefinedImageFormats" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;jpg&lt;/string&gt;
+  &lt;string&gt;jpeg&lt;/string&gt;
+  &lt;string&gt;bmp&lt;/string&gt;
+  &lt;string&gt;png&lt;/string&gt;
+  &lt;string&gt;gif&lt;/string&gt;
+  &lt;string&gt;tiff&lt;/string&gt;
+  &lt;string&gt;ico&lt;/string&gt;
+  &lt;string&gt;pcx&lt;/string&gt;
+  &lt;string&gt;tif&lt;/string&gt;
+  &lt;string&gt;cur&lt;/string&gt;
+  &lt;string&gt;tga&lt;/string&gt;
+  &lt;string&gt;ai&lt;/string&gt;
+  &lt;string&gt;dxf&lt;/string&gt;
+  &lt;string&gt;wmf&lt;/string&gt;
+  &lt;string&gt;svg&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="predefinedAudioFormats" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;mp3&lt;/string&gt;
+  &lt;string&gt;wma&lt;/string&gt;
+  &lt;string&gt;wav&lt;/string&gt;
+  &lt;string&gt;ape&lt;/string&gt;
+  &lt;string&gt;flac&lt;/string&gt;
+  &lt;string&gt;ogg&lt;/string&gt;
+  &lt;string&gt;aac&lt;/string&gt;
+  &lt;string&gt;mid&lt;/string&gt;
+  &lt;string&gt;midi&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="predefinedDocumentFormats" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;txt&lt;/string&gt;
+  &lt;string&gt;html&lt;/string&gt;
+  &lt;string&gt;htm&lt;/string&gt;
+  &lt;string&gt;shtml&lt;/string&gt;
+  &lt;string&gt;xhtml&lt;/string&gt;
+  &lt;string&gt;chm&lt;/string&gt;
+  &lt;string&gt;hlp&lt;/string&gt;
+  &lt;string&gt;rtf&lt;/string&gt;
+  &lt;string&gt;tex&lt;/string&gt;
+  &lt;string&gt;ltx&lt;/string&gt;
+  &lt;string&gt;doc&lt;/string&gt;
+  &lt;string&gt;docx&lt;/string&gt;
+  &lt;string&gt;ppt&lt;/string&gt;
+  &lt;string&gt;pptx&lt;/string&gt;
+  &lt;string&gt;odf&lt;/string&gt;
+  &lt;string&gt;pdf&lt;/string&gt;
+  &lt;string&gt;xls&lt;/string&gt;
+  &lt;string&gt;xlsx&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="predefinedArchiveFormats" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;mba&lt;/string&gt;
+  &lt;string&gt;gz&lt;/string&gt;
+  &lt;string&gt;tar&lt;/string&gt;
+  &lt;string&gt;bz2&lt;/string&gt;
+  &lt;string&gt;bz&lt;/string&gt;
+  &lt;string&gt;zip&lt;/string&gt;
+  &lt;string&gt;rar&lt;/string&gt;
+  &lt;string&gt;7z&lt;/string&gt;
+  &lt;string&gt;cab&lt;/string&gt;
+  &lt;string&gt;ace&lt;/string&gt;
+  &lt;string&gt;iso&lt;/string&gt;
+  &lt;string&gt;img&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="customFontSize" Type="System.Single" Scope="Application">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="customFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="recentArchiveList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string /&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="iconIndexSettings" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
